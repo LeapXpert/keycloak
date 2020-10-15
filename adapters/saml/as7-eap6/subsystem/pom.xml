@@ -89,7 +89,7 @@
             <groupId>org.jboss.logging</groupId>
             <artifactId>jboss-logging</artifactId>
             <!-- Needed for jboss-logging-processor-->
-            <version>3.3.2.Final</version>
+            <version>3.4.1.Final</version>
         </dependency>
 
         <!-- Do not ever delete this dependency. It's needed for eap6 adapter build in PNC.-->
