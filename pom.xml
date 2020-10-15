@@ -78,7 +78,7 @@
         <hibernate.core.version>5.3.17.Final</hibernate.core.version>
         <hibernate.c3p0.version>5.3.17.Final</hibernate.c3p0.version>
         <infinispan.version>10.1.8.Final</infinispan.version>
-        <jackson.version>2.10.4</jackson.version>
+        <jackson.version>2.11.2</jackson.version>
         <jackson.databind.version>${jackson.version}</jackson.databind.version>
         <jackson.annotations.version>${jackson.databind.version}</jackson.annotations.version>
         <jakarta.mail.version>1.6.5</jakarta.mail.version>
